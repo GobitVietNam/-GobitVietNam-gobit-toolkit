@@ -1,0 +1,22 @@
+{
+  "name": "gobitswap-libs",
+  "version": "1.0.0",
+  "description": "This is GobitSwap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GobitVietNam/-GobitVietNam-gobit-toolkit.git"
+  },
+  "keywords": [
+    "gobit-toolkit"
+  ],
+  "author": "PeterGobit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GobitVietNam/-GobitVietNam-gobit-toolkit/issues"
+  },
+  "homepage": "https://github.com/GobitVietNam/-GobitVietNam-gobit-toolkit#readme"
+}

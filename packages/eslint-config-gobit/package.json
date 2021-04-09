@@ -6,7 +6,7 @@
   "files": [
     "lib"
   ],
-  "repository": "https://github.com/GobitVietNam/gobit-toolkit/tree/master/packages/eslint-config-gobit",
+  "repository": "https://github.com/GobitVietNam/-GobitVietNam-gobit-toolkit/tree/main/packages/eslint-config-gobit",
   "license": "MIT",
   "author": "PeterGobit",
   "private": false,

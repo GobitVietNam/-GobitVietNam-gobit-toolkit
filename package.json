@@ -2,7 +2,7 @@
   "name": "gobit-toolkit",
   "version": "1.0.0",
   "description": "Gobit frontend packages",
-  "private": true,
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
