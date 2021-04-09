@@ -1,0 +1,34 @@
+/**
+ * @author [Peter]
+ * @email [hoangvanlam9988@mail.com]
+ * @create date 2021-04-09 15:04:10
+ * @modify date 2021-04-09 15:04:10
+ * @desc [description]
+ */
+import React from "react";
+import { Link } from "react-router-dom";
+import getExternalLinkProps from "../../util/getExternalLinkProps";
+import { Button } from "../../components/Button";
+import { ToastAction as Action } from "./types";
+
+interface ToastActionProps {
+  action: Action;
+}
+
+const ToastAction: React.FC<ToastActionProps> = ({ action }) => {
+  if (action.url.startsWith("http")) {
+    return (
+      <Button as="a" scale="sm" href={action.url} {...getExternalLinkProps()}>
+        {action.text}
+      </Button>
+    );
+  }
+
+  return (
+    <Button as={Link} scale="sm" to={action.url}>
+      {action.text}
+    </Button>
+  );
+};
+
+export default ToastAction;
