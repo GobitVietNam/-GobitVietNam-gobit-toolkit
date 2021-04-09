@@ -1,6 +1,6 @@
 # 🈂️ 🐷🌵Gobit UIkit
 
-[🌵Gobit UIkit](https://www.npmjs.com/package/@gobitswap-libs/uikit) [![Size](https://img.shields.io/bundlephobia/min/@pancakeswap-libs/uikit)](https://www.npmjs.com/package/@gobitswap-libs/uikit)
+[🌵Gobit UIkit](https://www.npmjs.com/package/@gobitswap-libs/uikit) [![Size](https://img.shields.io/bundlephobia/min/@Gobitswap-libs/uikit)](https://www.npmjs.com/package/@gobitswap-libs/uikit)
 
 Gobit UIkit is a set of React components and hooks used to build pages on Gobit's apps. It also contains a theme file for dark and light mode.
 
@@ -12,7 +12,7 @@ Gobit UIkit is a set of React components and hooks used to build pages on Gobit'
 
 ### Theme
 
-Before using Pancake UIkit, you need to provide the theme file to styled-component.
+Before using Gobit UIkit, you need to provide the theme file to styled-component.
 
 ```
 import { ThemeProvider } from 'styled-components'
