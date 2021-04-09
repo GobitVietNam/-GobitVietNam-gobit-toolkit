@@ -1,6 +1,6 @@
 {
-  "name": "gobit-toolkit",
-  "version": "1.0.0",
+  "name": "gobitswap-libs",
+  "version": "1.0.1",
   "description": "Gobit frontend packages",
   "private": false,
   "workspaces": [
@@ -61,5 +61,10 @@
     "ts-jest": "^26.5.1",
     "tslib": "^2.0.3",
     "typescript": "^4.1.5"
-  }
+  },
+  "main": "index.js",
+  "author": "PeterGobit",
+  "keywords": [
+    "gobitswap-libs"
+  ]
 }
