@@ -1,6 +1,6 @@
 {
   "name": "@gobitswap-libs/uikit",
-  "version": "0.22.0",
+  "version": "1.0.0",
   "description": "Set of UI components for gobit projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
@@ -53,7 +53,6 @@
     "@types/react-transition-group": "^4.4.1",
     "@types/styled-system": "^5.1.10",
     "lodash": "^4.17.20",
-    "react-transition-group": "^4.4.1",
     "rollup": "^2.45.0",
     "styled-system": "^5.1.5"
   },

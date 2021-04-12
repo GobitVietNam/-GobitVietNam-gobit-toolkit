@@ -1,6 +1,6 @@
 {
   "name": "gobitswap-libs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Gobit frontend packages",
   "private": false,
   "workspaces": [
